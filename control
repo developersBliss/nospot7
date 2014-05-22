@@ -1,0 +1,9 @@
+Package: com.developersbliss.nospot7
+Name: NoSpot iOS 7
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Version: 2.1
+Architecture: iphoneos-arm
+Description: Makes Spotlight inaccessible.
+Maintainer: developersBliss
+Author: developersBliss
+Section: Tweaks
